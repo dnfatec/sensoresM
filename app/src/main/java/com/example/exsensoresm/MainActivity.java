@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Toast.makeText(getApplicationContext(), "Teste git alterado dentro do site do git ", Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(), "Teste versão 02 ", Toast.LENGTH_LONG).show();
     }
 }
